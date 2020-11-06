@@ -1,2 +1,2 @@
 # Qiskit
-basic manipulation of qubits
+Basic manipulation of qubits
